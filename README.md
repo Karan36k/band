@@ -1,2 +1,5 @@
-# typerMe
-typerme is a dynamic typer that reflects my profile and interests in a intuitive and animated manner which works with a fully transparent code session.
+# band
+band is a dynamic player that reflectsmany audio options for the user to see.
+
+Please visit www.massivefile.com/band to see a live demo.
+
